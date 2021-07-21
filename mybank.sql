@@ -89,6 +89,6 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`uname`, `userid`, `pwd`, `cid`) VALUES
-('Administrator', 'superuser', 'anand', 0);
+('Administrator', 'amitdhote', 'amit', 0);
 
 
